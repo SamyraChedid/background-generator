@@ -1,0 +1,26 @@
+body{
+    font-family: font-family "Vast Shadow", cursive;
+    color: rgba(26, 23, 23, 0.753);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, rgb(81, 81, 235), rgb(59, 223, 59));
+}
+
+h1{
+    font-family: font-family "Vast Shadow", cursive;
+    color: rgba(26, 23, 23, 0.753);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3{
+    font-family: font-family "Vast Shadow", cursive;
+    color: rgba(26, 23, 23, 0.753);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
